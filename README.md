@@ -69,7 +69,6 @@ Here ***core*** is the name of project
 ### Now Run The project 
 
 ```
-cd core
 python manage.py runserver
 
 ```
