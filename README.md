@@ -10,7 +10,7 @@ Click [Python](https://www.python.org/downloads/windows/)
 
 ```
 pip --version
-pyython3 --version
+python3 --version
 
 ```
 
@@ -60,7 +60,7 @@ pip install django
 ### Start Project Using DJango
 
 ```
-django-admin startproject core
+django-admin startproject core .
 
 ```
 
